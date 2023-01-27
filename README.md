@@ -4,4 +4,4 @@ Discord interactive bot with an aim to offer sagely advice from the infamous mas
 
 # Contributing
 
-Please feel free to contribute to the advice list or add new commands
+Please feel free to contribute to the [advice list](https://github.com/arinze19/baby-yoda-bot/blob/main/assets/data.json) or add [new commands](https://github.com/arinze19/baby-yoda-bot/tree/main/commands)
