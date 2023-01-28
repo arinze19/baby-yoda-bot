@@ -25,7 +25,7 @@ client.on('messageCreate', (message) => {
 
   commands.forEach(({ regex, cb }) => {
     if (message.content.toLowerCase().match(regex)) {
-      message.reply(cb());
+      cb(message);
     }
   });
 });
