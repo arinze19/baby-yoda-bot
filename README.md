@@ -1,6 +1,10 @@
 # Baby Yoda Bot
 
-Discord interactive bot with an aim to offer sagely advice from the infamous master yoda! but as a baby!
+Yoda themed interactive discord bot with an aim make your discord experience more enjoyable by offering sagely advice, translating languages and many more
+
+# Commands
+
+
 
 # Contributing
 
