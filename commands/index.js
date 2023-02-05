@@ -5,11 +5,11 @@ const commands = [
   {
     regex: /(?<!\S)!advice(?!\S)/,
     cb: (message) => {
-      message.reply(sayings[Math.floor(Math.random() * sayings.length)]);
+      message.channel.send(sayings[Math.floor(Math.random() * sayings.length)]);
     },
   },
   {
-    regex: /(?<!\S)!translate to=\w{4,} \w{1,}(?!\S)/,
+    regex: /(?<!\S)!translate to=\w{4,} \w+(?!\S)/,
     cb: async (message) => {
       const messageContent = message.content.split(' ');
       const language = messageContent
