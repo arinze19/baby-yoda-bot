@@ -1,6 +1,6 @@
 # Baby Yoda Bot
 
-Yoda themed interactive discord bot with an aim make your discord experience more enjoyable by offering sagely advice, translating languages and many more
+Yoda themed interactive discord bot with an aim make your discord experience more enjoyable by offering sagely advice, translating languages to help you connect better with a diverse audience and many more
 
 # Commands
 
